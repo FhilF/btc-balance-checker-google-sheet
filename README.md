@@ -1,4 +1,4 @@
-# Bitcoin balance checker - excel
+# Bitcoin balance checker - google sheet
 A python script that checks wallets address their balance and produce an output as csv file.
 
 # Set up guide
