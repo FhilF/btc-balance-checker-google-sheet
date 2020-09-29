@@ -2,7 +2,8 @@
 A python script that checks wallets address their balance and produce an output as csv file.
 
 # Set up guide
-1. Create a csv file to get the address. (Follow the format of wallets-format.csv) and name it as wallets.csv
+1. Create a csv file to get the address and name the file as wallets.csv
+(Follow the format of wallets-format.csv)
 ```
 'Email', 'BTC address', 'Link of submission',	'Landed At', and 'Submitted At'
 ```
