@@ -1,1 +1,11 @@
-# btc-balance-checker-google-sheet
+# Bitcoin balance checker - excel
+A python script that checks wallets address their balance and produce an output as csv file.
+
+# Set up guide
+1. Create a csv file to get the address. (Follow the format of wallets-format.csv) and name it as wallets.csv
+```
+'Email', 'BTC address', 'Link of submission',	'Landed At', and 'Submitted At'
+```
+2. Open the file credentials.json and copy the client email.
+3. Open a Google sheet file and share the document by adding the email.
+4. Run the script.
